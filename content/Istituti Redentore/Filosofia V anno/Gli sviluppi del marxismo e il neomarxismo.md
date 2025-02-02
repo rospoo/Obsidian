@@ -1,4 +1,4 @@
-#filosofia 
+
 A fine '800 si sviluppa il dibattito tra *ortodossia* (marxisti che vogliono applicare alla lettera il piano marxiano di rivoluzione della classe proletaria) e *revisionismo* (il pensiero, ad esempio di Bernstein, di coloro che ritengono che le previsioni nefaste sul destino del proletariato di Marx si erano rivelate errate e che quindi bisogna proseguire sulla vie delle riforme graduali, rimandando la rivoluzione).
 
 Questo dibattito si riflette nella vita dei partiti socialisti nazionali: ad esempio in Italia il PSI è articolato nella corrente RIFORMISTA, e in quella MASSIMALISTA.

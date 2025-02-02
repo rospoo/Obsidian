@@ -1,4 +1,4 @@
-#filosofia 
+ 
 
 L’insieme dei pronunciamenti del MAGISTERO della Chiesa (Papa e i vescovi) sui temi economici, sociali, politici, ambientali.
 

@@ -1,1 +1,4 @@
-#filosofia
+[[SPIRITUALISMO]]  <br>
+[[SOCIALISMO]]<br>
+[[LA DOTTRINA SOCIALE DELLA CHIESA]]
+
