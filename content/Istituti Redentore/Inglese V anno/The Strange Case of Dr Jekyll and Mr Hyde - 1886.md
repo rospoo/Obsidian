@@ -1,13 +1,4 @@
-```image-layout-a
----
-caption: Dr. Jekyll and Mr. Hyde
 
-permanentOverlay: false
----
-![[The Strange Case of Dr. Jekyll and Mr. Hyde-20241030130044121.webp]]
-![[The Strange Case of Dr. Jekyll and Mr. Hyde-20241030130026998.webp]]
-
-```
 ## Protagonists
 
 | Dr Jekyll             | Mr Hyde                     |
@@ -15,17 +6,7 @@ permanentOverlay: false
 | Respectable, prideful | Scared, hiding himself      |
 | Apparent happiness    | Hypocrisy, moral corruption |
 
-<table width=100%>
-<tr>
-	<td width=35%>  <img src="https://imgur.com/Lim3YMX.png"></td>
-	<td width=70%>
 The aim of the experiment was to divide the good and evil parts of people, so that a society formed by only the good parts could be created. Each person has an "evil side" and Jekyll thinks it should be eliminated. This story is a crime story. Elements of the crime story are:
-
-<img src="https://imgur.com/0qEItw8.png">
-  </td>
-</tr>
-</table>
-![](https://i.imgur.com/B1q3NKI.png)
 
 _Dr. Jekyll and Mr. Hyde_ by Robert Louis Stevenson is a complex novella that delves into the duality of human nature. Here’s a comprehensive and detailed analysis, touching on every aspect of the work:
 
