@@ -1,4 +1,4 @@
-
+#filosofia 
 Nell’800 si sviluppa una riflessione mossa dalla condizione sociale, dalla rivoluzione industriale, con l’obbiettivo di addivenire a una giustizia sociale.
 # 1. Socialismo Utopistico
 
