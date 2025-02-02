@@ -1,5 +1,5 @@
 
-#filosofia
+
 
 ## Introduzione alla metafisica (1903)
 
