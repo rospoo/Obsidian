@@ -9,13 +9,14 @@ Il principale pittore futurista è...
 
 Egli in realtà <u>nasce divisionista</u>, essendo allievo di Giacomo Balla che diventerà poi esso stesso futurista. **Il maestro che insegna all'allievo e ne diventa poi esso stesso un allievo.** 
 ## La città che sale
-
 <table width=100%>
 <tr>
-	<td width=60%>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Immagine-Umberto_boccioni_la_citt%C3%A0_che_sale.jpg/1200px-Immagine-Umberto_boccioni_la_citt%C3%A0_che_sale.jpg">Boccioni, La Città che Sale, 1910-11, Olio su tela, 199x301cm</td>
+	<td width=60%>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Immagine-Umberto_boccioni_la_citt%C3%A0_che_sale.jpg/1200px-Immagine-Umberto_boccioni_la_citt%C3%A0_che_sale.jpg">Boccioni, La Città che Sale, 1910-11, Olio su tela, 199x301cm <br>
+	<br>
+	I cavalli si muovono, gli uomini anche, e così facendo lasciano un segno del loro passaggio. <u>Boccioni lascia anche alcuni indizi della città moderna</u>: il tram, segno della mobilità urbana moderna che rivoluziona il modo in cui ci si sposta all'interno delle città, il ponteggio, che rispetto alle figure umane è imponente, segno della grandezza raggiunta dal progresso, e le ciminiere, segno delle fabbriche che si sposano e innestano nelle città. 
+</td>
 	<td width=50%>La scena descritta da Boccioni è quella di un cantiere particolarmente caotico. L'idea che si vuole dare è quella di un <u>continuo movimento</u>, si vede la scia che il movimento degli arti dei cavalli lascia dietro di sé. Per i futuristi, <u>il cantiere rappresenta il progresso,</u> il sorgere del nuovo in opposizione al vecchio che viene gettato nel baratro del dimenticatoio della mente umana. <u>L'osservatore viene immerso nel vortice dinamico</u> suggerito dal vorticare del colore. 
 
   </td>
 </tr>
 </table>
-I cavalli si muovono, gli uomini anche, e così facendo lasciano un segno del loro passaggio. <u>Boccioni lascia anche alcuni indizi della città moderna</u>: il tram, segno della mobilità urbana moderna che rivoluziona il modo in cui ci si sposta all'interno delle città, il ponteggio, che rispetto alle figure umane è imponente, segno della grandezza raggiunta dal progresso, e le ciminiere, segno delle fabbriche che si sposano e innestano nelle città. 
