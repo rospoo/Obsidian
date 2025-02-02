@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Instagram: "https://www.instagram.com/lorenzomatteii/?hl=en",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Spotify": "https://t.co/H5taxtQixL",
     },
   }),
 }
