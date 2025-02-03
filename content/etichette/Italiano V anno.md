@@ -2,8 +2,10 @@
 <br>
 [[Italia nell'Ottocento]]<br>
 <br>
-[[ITALIANO FINO AL 1912.pdf]]<br>
+[[Italiano '800]]<br>
 <br>
 [[Leopardi]]<br>
 <br>
 [[Il Realismo francese e la Scapigliatura]]<br>
+<br>
+
