@@ -18,7 +18,7 @@ Vi è in Freud un'attenzione alla sessualità che prima non c'era: essa ha un ru
 
 Legato alla sessualità è anche il complesso di Edipo (detto spesso di Elettra per le femmine): il bambino, in corrispondenza con la fase fallica, si lega quasi innamorandosi del genitore del sesso opposto, maturando al contempo un sentimento ambivalente (competitività e sicurezza) verso il genitore dello stesso sesso. 
 
-## ## La scoperta dell'inconscio
+## La scoperta dell'inconscio
 
 Freud parte dallo studio delle **isterie**, una series di patologie che si riteneva riguardassero soprattutto le donne a causa dell'etimologia. Dal greco **ὑστέρα**= utero.
 Le patologie erano per lo più fisiche (nevrosi, psicosi, paralisi, afasie…) ma non avevano una causa organica: sembrava non esserci un motivo per il quale si verificasse la patologia. 
@@ -29,9 +29,7 @@ Freud segue i corsi di *Charcot*, che **cura le isteriche attraverso l'ipnosi**.
 Freud ipotizza che in età infantile vi siano situazioni, fatti ed esperienze che il bambino non sa spiegare e metabolizzare: non sa ricondurre a schemi noti e dunque tende a rimuovere[^1] l'esperienza. Ne emerge quindi un'immagine della personalità che è quella dell'iceberg.
 <table width=100%>
 <tr>
-	<td width=60%>  <img src="https://tesinadimaturita.wordpress.com/wp-content/uploads/2017/06/iceberg.jpg?w=395&h=344"><i>L'iceberg della personalità freudiano.</i><br> 
-	<br>
-	</td>
+	<td width=60%>  <img src="https://tesinadimaturita.wordpress.com/wp-content/uploads/2017/06/iceberg.jpg?w=395&h=344"><i>L'iceberg della personalità freudiano.</i></td>
 	<td width=50%>La parte emersa è la mente conscia: noi siamo consapevoli che stiamo facendo quella determinata azione. La parte sommersa è la mente inconscia: noi non siamo consapevoli che stiamo facendo quella determinata azione. Il metodo freudiano è un metodo induttivo: dalle osservazioni (lo studio delle isterie) trovo la regola (la nostra personalità <i>potrebbe</i> essere strutturata in questo modo)
 
   </td>
@@ -41,7 +39,7 @@ Freud ipotizza che in età infantile vi siano situazioni, fatti ed esperienze ch
 La rimozione però non è una cancellazione totale: l'elemento rimosso permane all'interno dell'inconscio e, a distanza di anni, può ripresentarsi, anche se non direttamente: c'è infatti un meccanismo psichico di protezione che si chiama *censura*, che impedisce il ritorno dell'elemento traumatico rimosso.
 La pressione psichica ai confini con la coscienza innesca il sintomo isterico.
 
-![[02 excalidraw/PROCESSO DI ELIMINAZIONE FREUD|Processo di rimozione Freud|700]]
+![[Pasted image 20250204145253.png]]
 
 [^1]: Opera intrapsichica attraverso la quale un *item* viene spostato dalla coscienza verso un'area della mente di cui non siamo consapevoli. 
 
