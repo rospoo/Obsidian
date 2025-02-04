@@ -29,7 +29,7 @@ Freud segue i corsi di *Charcot*, che **cura le isteriche attraverso l'ipnosi**.
 Freud ipotizza che in età infantile vi siano situazioni, fatti ed esperienze che il bambino non sa spiegare e metabolizzare: non sa ricondurre a schemi noti e dunque tende a rimuovere[^1] l'esperienza. Ne emerge quindi un'immagine della personalità che è quella dell'iceberg.
 <table width=100%>
 <tr>
-	<td width=60%>  <img src="https://tesinadimaturita.wordpress.com/wp-content/uploads/2017/06/iceberg.jpg?w=395&h=344"><i>L'iceberg della personalità freudiano.</i></td>
+	<td width=60%>  <img src="https://tesinadimaturita.wordpress.com/wp-content/uploads/2017/06/iceberg.jpg?w=395&h=344"> <br> <i>L'iceberg della personalità freudiano.</i></td>
 	<td width=50%>La parte emersa è la mente conscia: noi siamo consapevoli che stiamo facendo quella determinata azione. La parte sommersa è la mente inconscia: noi non siamo consapevoli che stiamo facendo quella determinata azione. Il metodo freudiano è un metodo induttivo: dalle osservazioni (lo studio delle isterie) trovo la regola (la nostra personalità <i>potrebbe</i> essere strutturata in questo modo)
 
   </td>
