@@ -5,21 +5,21 @@ Sotto l'etichetta espressionista troviamo vari movimenti tra cui il movimento Di
 
 <table width=100%>
 <tr>
-	<td width=75%>  <img src="https://artslife.com/wp-content/uploads/2021/01/oskar-kokoschka-la-posa-del-vento.jpg">La sposa del vento, Oskar Kokoschka, 1914</td>
+	<td width=75%>  <img src="https://artslife.com/wp-content/uploads/2021/01/oskar-kokoschka-la-posa-del-vento.jpg">La sposa del vento, Oskar Kokoschka, 1914<br>   
+    Da subito si può notare una prevalenza di colori freddi, che si oppongono al calore che invece darebbe un amore appena sbocciato. Da un lato la composizione ricorda un letto, ma ricorda anche una nuvola: è presente un elemento indefinito reso grazie a delle pennellate curve e variopinte, che non definisce una realtà precisa ma lascia spazio all'immaginazione dell'osservatore. Non si capisce se la tempesta raggiunga i due da dentro a fuori o da fuori a dentro, nulla è definito precisamente. Si vuole però condurre al parossismo il rapporto dei due, violento e scatenato. Il modo in cui sono rappresentati i due è rivelativo: il corpo di lei è caratterizzato da un tratto molto più morbido e delicato, i colori sono più diluiti e delicati, mentre il corpo è un fascio di nervi, le mani sono fuori scala e sproporzionate, le guance scavate verso l'interno, quasi a significare che la fine di questo rapporto amoroso significhi per lui la morte fisica del suo corpo. Sembra tormentato. Alma appare invece serena, quasi ringiovanita da questa fine. 
+</td>
 	<td width=50%>Perché Kokoschka è legato alla secessione austriaca? Sarà l'amante di Alma Maler, vedova di Gustav Maler, direttore d'orchestra che la dirige durante la mostra dedicata a Beethoven. Il quadro rappresenta la fine della loro relazione, secondo i canoni espressionisti di cui sopra. 
 
   </td>
 </tr>
 </table>
 
-Da subito si può notare una prevalenza di colori freddi, che si oppongono al calore che invece darebbe un amore appena sbocciato. Da un lato la composizione ricorda un letto, ma ricorda anche una nuvola: è presente un elemento indefinito reso grazie a delle pennellate curve e variopinte, che non definisce una realtà precisa ma lascia spazio all'immaginazione dell'osservatore. Non si capisce se la tempesta raggiunga i due da dentro a fuori o da fuori a dentro, nulla è definito precisamente. Si vuole però condurre al parossismo il rapporto dei due, violento e scatenato. Il modo in cui sono rappresentati i due è rivelativo: il corpo di lei è caratterizzato da un tratto molto più morbido e delicato, i colori sono più diluiti e delicati, mentre il corpo è un fascio di nervi, le mani sono fuori scala e sproporzionate, le guance scavate verso l'interno, quasi a significare che la fine di questo rapporto amoroso significhi per lui la morte fisica del suo corpo. Sembra tormentato. Alma appare invece serena, quasi ringiovanita da questa fine. 
-
 - - - 
 ## Egon Schiele
 
 Morto molto giovane a cause della febbre spagnola, nasce in Austria nel 1890. 
 Il suo lottatore è un autoritratto. Viene enfatizzato in maniera estrema l'aspetto rettilineo del suo corpo. Ci sono angoli molto netti tra varie parti del corpo, non è rappresentato in una postura rilassata, è anzi rigido. Attraverso la rappresentazione esterna del corpo, possiamo vedere la sua tensione esistenziale interna. Il pittore è totalmente consapevole che quello che lui ritrae non rappresenta la realtà, questo perché il suo obiettivo è quello di rappresentare la sua interiorità. Interessato al nudo, sia femminile che maschile, dipinge quadri molto spinti dal punto di vista erotico. Vi sono piccole macchie di colore caldi e freddi che vogliono rappresentare i due poli dell'approccio di Schiele alla vita. Per quanto riguarda il corpo femminile, Schiele ne dà delle rappresentazioni molto particolari, che quasi sfociano nel feticismo. Un corpo forse più morbido di quello maschile, per far risaltare le parti più attraenti del corpo. 
- - - 
+ 
 ## L'abbraccio
 
 <table width=100%>
@@ -30,8 +30,6 @@ Il suo lottatore è un autoritratto. Viene enfatizzato in maniera estrema l'aspe
   </td>
 </tr>
 </table>
-
-- - - 
 ## I cavalli azzurri
 
 <table width=100%>

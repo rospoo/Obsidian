@@ -1,5 +1,3 @@
-Fontaine
-Violon
 
 Siamo a Zurigo, Svizzera. Nel bel mezzo della prima guerra mondiale (1916), un gruppo di artisti provenienti da tuta Europa si rifugia per sfuggire alla guerra e non svolgere il servizio militare. Questo gruppo fonda un locale da cabarets dal nome "Cabaret Voltaire" che diventa il punto di riferimento del dadaismo. Dadaismo vuol dire tutto e niente: può sia non avere senso rifacendosi ai versi dei bambini che si approcciano al mondo. In tedesco, però, "da" vuol dire "questo". Di per sè, dadaismo non ha significato ed è proprio questo il senso che si vuole dare al termine. Tutto quello che è esistito fino a quel momento non ha avuto senso, in quanto ha portato al più terribile dei conflitti: la Prima Guerra Mondiale. I dadaisti affermano che tutti i valori considerati essenziali fino a quel momento in realtà non lo sono. Quindi, il vero senso sta nell'assenza di senso: si devono rompere le convenzioni, essere provocatori. 
 L'opera "Fontaine" di Marcel Duchamp è spartiacque di questo movimento, in quanto anche dopo lo scioglimento del Cabaret Voltaire continuerà a permeare il sentimento artistico di tutta Europa.

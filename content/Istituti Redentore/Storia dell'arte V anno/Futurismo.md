@@ -20,3 +20,4 @@ Egli in realtà <u>nasce divisionista</u>, essendo allievo di Giacomo Balla che 
   </td>
 </tr>
 </table>
+

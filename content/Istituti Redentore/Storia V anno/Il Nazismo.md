@@ -22,6 +22,7 @@ Con il determine antisemitismo si indica l'**odio religioso e razziale** nei con
 Si parla però di antigiudaismo per riferirsi specificamente all'odio perpetrato dai cristiani nei confronti della religione degli ebrei. In due parole…
 - **Antisemitismo**: odio verso la <u>razza</u>
 - **Antigiudaismo**: odio verso la <u>religione</u><br>
+<br>
 L'<u>antisemitismo brutale</u> si sviluppa a causa dei nazisti, che portano alla *Shoah* (distruzione). <br>
 Come si spiega che una nazione tanto acculturata come la Germania abbia partorito un simile piamo?
 Ci sono gli *intenzionalisti* che dicono che l'idea di sterminio è sempre stata presente. i Nazisti volevano eliminarli fin dall'inizio. Lo sterminio è il frutto di una intenzionalità *ad-obo.* Invece troviamo anche la tesi dei *finalisti*, la più seguita dalla storiografia, che volevano toglierseli dai piedi ma non per forza sterminarli. 

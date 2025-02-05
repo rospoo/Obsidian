@@ -40,7 +40,8 @@ Picasso, Famiglia di Saltimbanchi, 1905
 
 <table width=100%>
 <tr>
-	<td width=50%>  <img src="https://ieb-assets.s3-eu-west-1.amazonaws.com/files/z6683mai0529-29-026-scala-0121110d-119964.jpg">Picasso, Les Demoiselles d'Avignon</td>
+	<td width=50%>  <img src="https://ieb-assets.s3-eu-west-1.amazonaws.com/files/z6683mai0529-29-026-scala-0121110d-119964.jpg">Picasso, Les Demoiselles d'Avignon <br>
+    Picasso non cerca una resa imitativa del reale, vuole invece scomporre e ricomporre i corpi stessi delle ragazze e gli elementi a loro circostanti. Gli elementi materiali, contestuali e corporei subiscono tutti lo stesso trattamento. Questo lo si può capire dal tono cromatico simile tra tutti i vari elementi. Per di più, le 5 ragazze sono tutte colte da un punto di vista diverso: sembra che le ragazze siano state rappresentate separatamente, e poi incollate una di fianco all'altra. Queste rappresentazione fanno molto scandalo, viste la rivoluzione dei canoni estetici.</td>
 	<td width=70%>1907, convenzionalmente indicato come anno di nascita del cubismo. Nonostante questo, siamo ancora in un periodo di transizione: si possono notare elementi del periodo africano, altri del periodo blu e altri del periodo rosa. Questo dipinto è il ponte verso il cubismo. Le 5 signorine, sono in realtà delle prostitute: Avignon infatti si riferisce al bordello presente in una via di Barcellona, e non alla città francese.
 Il soggetto è abbastanza abituale per questo periodo, ciò che cambia radicalmente è il modo in cui Picasso rappresenta le 5 prostitute. Possiamo immaginarci all'interno della sala comune, nella quale le ragazze aspettavano di essere scelte dai clienti. Si può notare anche la presenza di una natura morta cubista. 
 
@@ -48,11 +49,17 @@ Il soggetto è abbastanza abituale per questo periodo, ciò che cambia radicalme
 </tr>
 </table>
 
-Picasso non cerca una resa imitativa del reale, vuole invece scomporre e ricomporre i corpi stessi delle ragazze e gli elementi a loro circostanti. Gli elementi materiali, contestuali e corporei subiscono tutti lo stesso trattamento. Questo lo si può capire dal tono cromatico simile tra tutti i vari elementi. Per di più, le 5 ragazze sono tutte colte da un punto di vista diverso: sembra che le ragazze siano state rappresentate separatamente, e poi incollate una di fianco all'altra. Queste rappresentazione fanno molto scandalo, viste la rivoluzione dei canoni estetici.
+
 
 <table width=100%>
 <tr>
-	<td width=70%>  <img src="https://www.frammentirivista.it/wp-content/uploads/2016/06/guernica-picasso.jpg">Picasso, Guernica, 1937, 351x782cm</td>
+	<td width=70%>  <img src="https://www.frammentirivista.it/wp-content/uploads/2016/06/guernica-picasso.jpg">Picasso, Guernica, 1937, 351x782cm   <br>
+	Contro questo governo si coagula un fronte di opposizione che figura parti dell'esercito, aristocratici e altoborghesi conservatori, cattolici che temevano una svolta anticristiana, e l'ufficiale dell'esercito spagnolo Francisco Franco. Ciò che si viene a creare è una guerra civile che dura quasi 3 anni. Come riuscirono ad avere la meglio? Ricevono l'aiuto esterno della coalizione nazi-fascista, che non dichiarò però pubblicamente guerra alla Spagna. Salito al potere, il governo dittatoriale di F. Franco durerà più di 35 anni, fino alla sua morte.
+ La scena rappresentata da Picasso è quella di un attacco aereo da parte di aerei tedeschi. La tela viene realizzata in pochi mesi e viene esposta all'esposizione universale di Parigi nel salone della Spagna. La grandezza della tela è funzionale per fare arrivare il messaggio a più persone possibili: sono tele realizzate per essere viste contemporaneamente da tante persone. L'assenza di colore rappresenta l'assenza di colore della morte, dell'estinzione, delle emozioni. Si vuole rendere un panorama distrutto da un attacco aereo dove tutto perde colore. Il contesto di odio rappresentato dal dipinto si può applicare a ogni contesto umano grazie all'assenza di colore e all'assenza di scene crude ed esplicite. Sono presenti vari significati che è l'osservatore a dover spiegare: Picasso si è sempre rifiutato di dare una spiegazione del quadro, per lasciare spazio alla soggettività collettiva.
+ Analisi dei particolari: da sinistra, la madre che urla in modo straziante a causa della morte del figlio. La lingua della donna è affilata: pungente, si vede il seno a penzoloni, che ora non servirà più a nutrire il suo piccolo, le mani sono sproporzionatamente grandi rispetto al resto, stanno accudendo il figlio morto, la testa è abbandonata verso l'indietro: non vi è più speranza di vita. 
+ In basso, ci sono pezzi di corpo spezzati tra di loro, si vede una mano, le quali linee della vita sono tutte spezzate: la vita è finita.
+ A destra, il caos fa da padrone: nulla ha più senso. 
+ Nonostante questo, la speranza è presente: dalla spada spezzata nasce un fiore. </td>
 	<td width=50%>Il Guernica di Picasso, realizzato nel 1937, quindi con un salto di 30 anni, esce già dai canoni classici del cubismo, nonostante ne presenti molti elementi. Guernica è il nome di un insediamento spagnolo all'interno dei Paesi bassi. Ci troviamo nel contesto della guerra civile spagnola durante la quale una parte dell'esercito tenta un colpo di stato per rovesciare il governo legittimo, che era di sinistra. 
 
 
@@ -61,9 +68,3 @@ Picasso non cerca una resa imitativa del reale, vuole invece scomporre e ricompo
 </table>
 
  
- Control questo governo si coagula un fronte di opposizione che figura parti dell'esercito, aristocratici e altoborghesi conservatori, cattolici che temevano una svolta anticristiana, e l'ufficiale dell'esercito spagnolo Francisco Franco. Ciò che si viene a creare è una guerra civile che dura quasi 3 anni. Come riuscirono ad avere la meglio? Ricevono l'aiuto esterno della coalizione nazi-fascista, che non dichiarò però pubblicamente guerra alla Spagna. Salito al potere, il governo dittatoriale di F. Franco durerà più di 35 anni, fino alla sua morte.
- La scena rappresentata da Picasso è quella di un attacco aereo da parte di aerei tedeschi. La tela viene realizzata in pochi mesi e viene esposta all'esposizione universale di Parigi nel salone della Spagna. La grandezza della tela è funzionale per fare arrivare il messaggio a più persone possibili: sono tele realizzate per essere viste contemporaneamente da tante persone. L'assenza di colore rappresenta l'assenza di colore della morte, dell'estinzione, delle emozioni. Si vuole rendere un panorama distrutto da un attacco aereo dove tutto perde colore. Il contesto di odio rappresentato dal dipinto si può applicare a ogni contesto umano grazie all'assenza di colore e all'assenza di scene crude ed esplicite. Sono presenti vari significati che è l'osservatore a dover spiegare: Picasso si è sempre rifiutato di dare una spiegazione del quadro, per lasciare spazio alla soggettività collettiva.
- Analisi dei particolari: da sinistra, la madre che urla in modo straziante a causa della morte del figlio. La lingua della donna è affilata: pungente, si vede il seno a penzoloni, che ora non servirà più a nutrire il suo piccolo, le mani sono sproporzionatamente grandi rispetto al resto, stanno accudendo il figlio morto, la testa è abbandonata verso l'indietro: non vi è più speranza di vita. 
- In basso, ci sono pezzi di corpo spezzati tra di loro, si vede una mano, le quali linee della vita sono tutte spezzate: la vita è finita.
- A destra, il caos fa da padrone: nulla ha più senso. 
- Nonostante questo, la speranza è presente: dalla spada spezzata nasce un fiore. 
