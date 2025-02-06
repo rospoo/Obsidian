@@ -1,6 +1,3 @@
-Fontaine
-Violon
-
 Siamo a Zurigo, Svizzera. Nel bel mezzo della prima guerra mondiale (1916), un gruppo di artisti provenienti da tuta Europa si rifugia per sfuggire alla guerra e non svolgere il servizio militare. Questo gruppo fonda un locale da cabarets dal nome "Cabaret Voltaire" che diventa il punto di riferimento del dadaismo. Dadaismo vuol dire tutto e niente: può sia non avere senso rifacendosi ai versi dei bambini che si approcciano al mondo. In tedesco, però, "da" vuol dire "questo". Di per sé, dadaismo non ha significato ed è proprio questo il senso che si vuole dare al determine. Tutto quello che è esistito fino a quel memento non ha avuto senso, in quanto ha portato al più terribile dei conflitti: la Prima Guerra Mondiale. I dadaisti affermano che tutti i valori considerati essenziali fino a quel memento in realtà non lo sono. Quindi, il vero senso sta nell'assenza di senso: si devono rompere le convenzioni, essere provocatori. 
 L'opera "Fontaine" di Marcel Duchamp è spartiacque di questo movimento, in quanto anche dopo lo scioglimento del Cabaret Voltaire continuerà a permeare il sentimento artistico di tutta Europa.
 
@@ -24,8 +21,6 @@ L'artista non è più colui che fa l'opera, ma colui che la sceglie.
 </tr>
 </table>
 
-![[Pasted image 20250206211055.jpg]]
-
 ## Fontaine 
 
 L'urinatoio di Duchamp viene decontestualizzato e ricontestualizzato come vogliono i canoni dadaisti, oltre a questo si aggiunge il capovolgimento di verso dell'oggetto sottosopra. 
@@ -34,18 +29,15 @@ Altra opera iconica di Duchamp è la Gioconda con i baffi e il pizzetto e la scr
 
 ![[Pasted image 20250206211055.jpg]]
 
-Marcel Duchamp, _ready-made_.  
-**a.** _Ruota di bicicletta_, terza copia del 1951 da un originale perduto del 1913. Ruota di bicicletta e sgabello, 128,3×42×63,8 cm. New York, Museum of Modern Art.  
-**b.** _In Advance of the Broken Arm_ (_In anticipo per il braccio rotto_), quarta copia del 1964 da un originale perduto del 1915. Pala da neve in legno e ferro galvanizzato, altezza 132 cm. New York, Museum of Modern Art.  
-**c.** _Con rumore segreto_, 1916. Spago, lastre e viti di ottone, altezza 12,9 cm. Philadelphia, Museum of Art.  
-**d.** _Fontana_, copia del 1964 da un originale perduto del 1917. Orinatoio in porcellana, altezza 61 cm. Londra, Tate Modern.  
-**e.** _L.H.O.O.Q_., 1919. Riproduzione della _Gioconda_ e inchiostro, 19,7×12,4 cm. New York, Collezione privata.
-
+**a.** _Ruota di bicicletta_, terza copia del 1951 da un originale perduto del 1913. Ruota di bicicletta e sgabello, 128,3×42×63,8 cm. New York, Museum of Modern Art.
+**b.** _In Advance of the Broken Arm_ (_In anticipo per il braccio rotto_), quarta copia del 1964 da un originale perduto del 1915. Pala da neve in legno e ferro galvanizzato, altezza 132 cm. New York, Museum of Modern Art.
+**c.** _Con rumore segreto_, 1916. Spago, lastre e viti di ottone, altezza 12,9 cm. Philadelphia, Museum of Art.
+**d.** _Fontana_, copia del 1964 da un originale perduto del 1917. Orinatoio in porcellana, altezza 61 cm. Londra, Tate Modern.
+**e.** _L.H.O.O.Q_., 1919. Riproduzione della _Gioconda_ e inchiostro, 19,7×12,4 cm. New York, Collezione privata.
 
 # Man Ray
 
 ## Le violon d'Ingres
-
 
 |                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
