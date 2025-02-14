@@ -13,3 +13,6 @@
 [[Espressionismo]] <br>
  <br>
 [[Futurismo]] <br>
+<br>
+[[Razionalismo]] <br>
+<br>
